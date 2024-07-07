@@ -118,5 +118,5 @@ def train_engine():
             loss.backward(loss)
             optimizer.step()
 
-if __name__ == "__main__":
-    train_engine()
+
+train_engine()
