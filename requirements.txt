@@ -1,0 +1,11 @@
+torch
+torchvision
+torchmetrics
+spacy
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+tqdm
+spacy[en_core_web_sm]
