@@ -32,7 +32,7 @@ from pathlib import Path
 
 import data_setup, model_builder, utils
 from utils import *
-from model_builder import EncoderCNN, DecoderRNN, EncodertoDecoder
+from model_builder import EncodertoDecoder
 from data_setup import get_loader, Vocabulary, Custom_Collate, FlickrDataset
 
 print("Imported Successfully!")
