@@ -1,2 +1,2 @@
 # VisualNarrator
-neural image captioning with seq2seq CNN-LSTM architecture
+neural image captioning with seq2seq architecture and transfer learning
